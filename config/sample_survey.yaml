@@ -1,0 +1,155 @@
+- text: have a Reese's Cup
+  tags:
+    - candy
+    - chocolate
+    - peanut
+
+- text: have a Butterfinger
+  tags:
+    - candy
+    - chocolate
+    - peanut
+    - crunchy
+
+- text: have a Snickers
+  tags:
+    - candy
+    - chocolate
+    - peanut
+    - chewy
+
+- text: have Sour Patch Kids
+  tags:
+    - candy
+    - sour
+    - fruity
+    - chewy
+
+- text: have Skittles
+  tags:
+    - candy
+    - sour
+    - fruity
+    - chewy
+
+- text: have gummy bears
+  tags:
+    - candy
+    - sweet
+    - fruity
+    - chewy
+
+- text: have vanilla ice cream
+  tags:
+    - sweet
+    - vanilla
+    - cold
+
+- text: have chocolate ice cream
+  tags:
+    - sweet
+    - chocolate
+    - cold
+
+- text: have gelato
+  tags:
+    - sweet
+    - fruity
+    - cold
+
+- text: have a fruit popsicle
+  tags:
+    - popsicle
+    - sweet
+    - fruity
+    - cold
+
+- text: have a chocolate popsicle
+  tags:
+    - popsicle
+    - sweet
+    - chocolate
+    - cold
+
+- text: have a smoothie
+  tags:
+    - beverage
+    - sweet
+    - fruity
+    - cold
+
+- text: have a cup of hot chocolate
+  tags:
+    - beverage
+    - sweet
+    - chocolate
+    - hot
+
+- text: have a soda
+  tags:
+    - beverage
+    - sweet
+    - cold
+
+- text: have a dessert waffle with sugar and fruit
+  tags:
+    - sweet
+    - hot
+    - fruity
+
+- text: have a dessert waffle with chocolate syrup
+  tags:
+    - sweet
+    - hot
+    - chocolate
+
+- text: have a dessert crepe with sugar and fruit
+  tags:
+    - sweet
+    - hot
+    - fruity
+    - french
+
+- text: have a dessert crepe with chocolate syrup
+  tags:
+    - sweet
+    - hot
+    - chocolate
+    - french
+
+- text: have a handful of chocolate chips
+  tags:
+    - sweet
+    - chocolate
+    - strange
+
+- text: have a brownie
+  tags:
+    - sweet
+    - chocolate
+    - rich
+    - hot
+
+- text: have a slice of chocolate cake
+  tags:
+    - sweet
+    - chocolate
+    - fluffy
+    - hot
+
+- text: have a slice of vanilla cake
+  tags:
+    - sweet
+    - hot
+    - fluffy
+
+- text: have a bowl of strawberries
+  tags:
+    - sour
+    - fruity
+
+- text: have iced lemonade?
+  tags:
+    - beverage
+    - sour
+    - fruity
